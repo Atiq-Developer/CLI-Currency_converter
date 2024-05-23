@@ -1,0 +1,19 @@
+{
+  "name": "atiq72315-cli-currency-convertor",
+  "version": "1.0.0",
+  "description": "A CLI tool for currency conversion",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "MUHAMMAD ATIQ UR REHMAN (00055468)",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
